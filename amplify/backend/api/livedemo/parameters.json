@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "livedemo",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authlivedemo0e13c26f",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

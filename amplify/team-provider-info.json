@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-livedemo-dev-162309-authRole",
+      "UnauthRoleArn": "arn:aws:iam::363037606500:role/amplify-livedemo-dev-162309-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::363037606500:role/amplify-livedemo-dev-162309-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-livedemo-dev-162309-deployment",
+      "UnauthRoleName": "amplify-livedemo-dev-162309-unauthRole",
+      "StackName": "amplify-livedemo-dev-162309",
+      "StackId": "arn:aws:cloudformation:us-east-1:363037606500:stack/amplify-livedemo-dev-162309/3b487f10-8e8a-11eb-8bb1-123cdfa4b01d",
+      "AmplifyAppId": "d36pa8sh7f6ou1"
+    },
+    "categories": {
+      "auth": {
+        "livedemo0e13c26f": {}
+      }
+    }
+  }
+}
